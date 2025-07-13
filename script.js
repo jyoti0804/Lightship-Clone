@@ -1,4 +1,4 @@
-/* ===( Build By : Ayush Lingayat )=== */
+
 function loco() {
   gsap.registerPlugin(ScrollTrigger);
 
